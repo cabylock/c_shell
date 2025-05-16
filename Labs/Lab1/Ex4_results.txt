@@ -1,0 +1,18 @@
+3
+9
+total 56
+drwx------  6 SV-23020795 ELT3296_2_N2 4096 Apr 16 17:27 .
+drwxr-xr-x 38 root        root         4096 Apr  7 21:27 ..
+-rw-------  1 SV-23020795 SV-23020795  6433 Apr 16 17:06 .bash_history
+drwx------  2 SV-23020795 SV-23020795  4096 Apr  8 09:24 .cache
+drwxrwxr-x  2 SV-23020795 SV-23020795  4096 Apr 14 15:50 code_test
+drwxrwxr-x  3 SV-23020795 SV-23020795  4096 Apr 16 17:10 Labs
+drwxrwxr-x  3 SV-23020795 SV-23020795  4096 Apr  8 09:26 .local
+-rw-rw-r--  1 SV-23020795 SV-23020795     0 Apr 14 15:53 Solution.txt
+-rwxrw-r--  1 SV-23020795 SV-23020795   200 Apr 14 18:07 test1.sh
+-rwxrw-r--  1 SV-23020795 SV-23020795    50 Apr 16 17:06 test2.sh
+-rw-------  1 SV-23020795 SV-23020795  8298 Apr 16 17:27 .viminfo
+-rw-rw-r--  1 SV-23020795 SV-23020795    12 Apr 14 17:55 .vimrc
+10
+4
+177

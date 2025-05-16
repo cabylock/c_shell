@@ -1,0 +1,4 @@
+[core]
+	compression = 0
+[http]
+	postBuffer = 524288000
