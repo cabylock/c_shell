@@ -1,4 +1,1 @@
-.vscode-server/
-.cache
-.local
-.bash_history
+.*
